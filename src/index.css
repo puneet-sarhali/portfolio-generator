@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --color-primary: #262626;
+        --color-secondary: #f1f5f9;
+        --color-accent: #f97316;
+        --color-accent-focus: #c2410c;
+        --color-accent-content: #fff7ed;
+        --color-accent2: "#f9a8d4";
+        --font-family-silkscreen: "Silkscreen";
+    }
+}
+
+.btn {
+    @apply m-4 bg-primary uppercase font-medium text-secondary px-5 py-3 rounded text-sm;
+}
+
+body {
+    max-width: 80rem;
+    margin: auto;
+}
+
+
+/*
+colours:
+black, orange, white
+
+
+typography:
+
+
+
+general:
+    rounded
+    sharp
+    retro: with thick borders and sharp edges
+    designer: big fonts
+    Minecraft themed: with pixelated text
+    minimalist
+*/
