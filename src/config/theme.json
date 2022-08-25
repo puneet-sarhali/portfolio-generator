@@ -1,6 +1,7 @@
 [   
     {
-        "--color-primary": "#262626",
+        "--color-primary": "#171717",
+        "--color-primary-light": "#262626",
         "--color-secondary": "#fff",
         "--color-accent": "#f97316",
         "--color-accent-focus": "#c2410c",
@@ -9,6 +10,7 @@
     },
     {
         "--color-primary": "#e2e8f0",
+        "--color-primary-light": "#e2e8f0",
         "--color-secondary": "#1e293b",
         "--color-accent": "#2563eb",
         "--color-accent-focus": "#1e40af",
@@ -17,6 +19,7 @@
     },
     {
         "--color-primary": "#fef2f2",
+        "--color-primary-light": "#fef2f2",
         "--color-secondary": "#262626",
         "--color-accent": "#15803d",
         "--color-accent-focus": "#14532d",

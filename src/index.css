@@ -18,11 +18,21 @@
     @apply m-4 bg-primary uppercase font-medium text-secondary px-5 py-3 rounded text-sm;
 }
 
-body {
-    max-width: 80rem;
-    margin: auto;
+.section-heading {
+    @apply font-bold mt-12;
 }
 
+.accent-heading {
+    @apply text-accent font-bold;
+}
+
+.navbar-link {
+  @apply m-4 text-secondary font-light text-sm inline-block;
+}
+
+.card {
+    @apply p-8 m-8 shadow-md text-secondary rounded-md bg-primary-light;
+}
 
 /*
 colours:

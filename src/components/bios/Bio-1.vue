@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="bg-primary pb-12 relative text-secondary h-96 flex flex-col justify-center"
-  >
+  <div class="pb-12 relative text-secondary h-96 flex flex-col justify-center">
     <h1 class="p-8 font-silkscreen block text-5xl font-bold">Thomas Shelby</h1>
     <h2 class="block">Front-end Developer</h2>
     <h2 class="block">Based in Canada</h2>
