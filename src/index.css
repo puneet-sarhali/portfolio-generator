@@ -12,27 +12,28 @@
         --color-accent2: "#f9a8d4";
         --font-family-silkscreen: "Silkscreen";
     }
+    .btn {
+        @apply m-4 bg-primary uppercase font-medium text-secondary px-5 py-3 rounded text-sm;
+    }
+    
+    .section-heading {
+        @apply font-bold mt-12;
+    }
+    
+    .accent-heading {
+        @apply text-accent font-bold;
+    }
+    
+    .navbar-link {
+      @apply m-4 text-secondary font-light text-sm inline-block;
+    }
+    
+    .card {
+        @apply p-8 m-8 shadow-md text-secondary rounded-md bg-primary-light;
+    }
 }
 
-.btn {
-    @apply m-4 bg-primary uppercase font-medium text-secondary px-5 py-3 rounded text-sm;
-}
 
-.section-heading {
-    @apply font-bold mt-12;
-}
-
-.accent-heading {
-    @apply text-accent font-bold;
-}
-
-.navbar-link {
-  @apply m-4 text-secondary font-light text-sm inline-block;
-}
-
-.card {
-    @apply p-8 m-8 shadow-md text-secondary rounded-md bg-primary-light;
-}
 
 /*
 colours:

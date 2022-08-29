@@ -3,10 +3,10 @@
         "--color-primary": "#171717",
         "--color-primary-light": "#262626",
         "--color-secondary": "#fff",
-        "--color-accent": "#f97316",
+        "--color-accent": "#047857",
         "--color-accent-focus": "#c2410c",
         "--color-accent-content": "#fff7ed",
-        "--color-accent2": "#fee2e2"
+        "--color-accent2": "#075985"
     },
     {
         "--color-primary": "#e2e8f0",
